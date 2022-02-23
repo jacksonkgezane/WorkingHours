@@ -1,2 +1,2 @@
 # WorkingHours
-Calculate the working hours during of employee
+Calculate the working hours of an employee
